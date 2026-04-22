@@ -60,6 +60,6 @@ flutter run
 
 ## Tela do App
 
-<!-- Adicione aqui a imagem do app -->
+<img src="assets/print1.png" width="300">
+<img src="assets/print2.png" width="300">
 
-<img src="assets/print.png" width="300">
