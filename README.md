@@ -12,7 +12,7 @@ As taxas de juros elevadas dificultam a aquisição de bens e serviços. Antes d
 
 ## Objetivo
 
-Desenvolver um aplicativo que receba:
+aplicativo que receba:
 
 * Valor do bem
 * Número de parcelas
@@ -58,7 +58,7 @@ flutter run
 
 ---
 
-## Tela do App
+## Telas do App
 
 <img src="assets/print1.png" width="300">
 <img src="assets/print2.png" width="300">
